@@ -7,3 +7,5 @@
 
 ### Tecnologias que eu utilizo!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zadigando&hide_progress=true)
+
+#### Apaixonado por tecnologia!
