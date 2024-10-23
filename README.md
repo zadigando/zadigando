@@ -1,7 +1,3 @@
-Aqui está uma sugestão atualizada e mais completa para o seu README do GitHub, integrando sua apresentação pessoal e destacando suas habilidades:
-
----
-
 ## Olá! Eu sou o Zadig de Bem! 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zadigdebem/)  
