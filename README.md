@@ -9,10 +9,10 @@
 ---
 
 ### 🧑‍💻 Tecnologias que utilizo
-- **Back-end:** Django, Flask  
+- **Back-end:** C#, Java 
 - **Front-end:** HTML, CSS, JavaScript  
 - **Bancos de Dados:** SQLite, MySQL  
-- **Outras Linguagens:** Python, Java  
+- **Outras Linguagens:** Python, Django e Flask  
 - **APIs:** Desenvolvimento e integração de APIs RESTful  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zadigando&hide_progress=true)  
@@ -25,7 +25,7 @@
 ---
 
 ### 📚 Sobre Mim
-Sou estudante de Ciência da Computação no 8º semestre e desenvolvedor Full Stack com experiência prática em projetos acadêmicos e profissionais. Tenho paixão por resolver problemas, criar interfaces dinâmicas e desenvolver soluções integradas com tecnologias de back e front-end. 
+Sou formado em Ciência da Computação e desenvolvedor Full Stack com experiência prática em projetos acadêmicos e profissionais. Tenho paixão por resolver problemas, criar interfaces dinâmicas e desenvolver soluções integradas com tecnologias de back e front-end. 
 
 Já participei de hackathons e projetos que me desafiaram a liderar e colaborar em equipes multidisciplinares. Tenho experiência na criação de APIs e ERPs com Flask e Django, além de suporte técnico e atendimento ao cliente durante meu estágio na USP. Busco constantemente melhorar minhas habilidades e colaborar com a comunidade de desenvolvedores!
 
